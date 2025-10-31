@@ -4,7 +4,7 @@ I’m a computational researcher working at the intersection of **biochemistry**
 
 Much of my past work has focused on the sequence–structure–function relationships of **intrinsically disordered proteins (IDPs)**, though my interests also extend more broadly across **computational biology** and **bioinformatics**.
 
-My publications are listed below. I’m eager to continue working in these areas and further expand my expertise.  
+The selected publications below reflect some of my computational work. I’m eager to continue working in these areas and further expand my expertise.  
 
 ---
 
