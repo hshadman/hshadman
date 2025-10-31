@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Hossain Shadman.
+# Hello, I'm Hossain Shadman.
 
-I’m a computational researcher with experience in biophysics, bioinformatics and machine learning. My publications are provided below. I'm looking to continue working in these fields and expanding my expertise. In particular, i'm interested in the sequence-structure-function relationships of intrinsically disordered proteins (IDPs) and regions (IDRs).  
+I’m a computational researcher with experience in **biochemistry**, **biophysics**, **bioinformatics**, and **machine learning**.  
+
+My current research interests focuse on understanding the sequence–structure–function relationships of **intrinsically disordered proteins (IDPs)**.  
+
+My publications are listed below. I’m eager to continue working in these areas and further expand my expertise.  
 
 ---
 
