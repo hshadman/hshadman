@@ -1,8 +1,8 @@
 # Hello, I'm Hossain Shadman.
 
-I’m a computational researcher working at the intersection of **biochemistry**, **computational biology**, **bioinformatics**, and **machine learning**.  
+I’m a computational researcher working at the intersection of biochemistry, computational biology, bioinformatics, and machine learning.  
 
-Much of my past work has focused on the sequence–structure–function relationships of **intrinsically disordered proteins (IDPs)**, though my interests also extend more broadly across **computational biology** and **bioinformatics**.
+Much of my past work has focused on the sequence–structure–function relationships of intrinsically disordered proteins (IDPs), though my interests also extend more broadly across computational biology and bioinformatics.
 
 The selected publications below reflect some of my computational work. I’m eager to continue exploring research questions in computational biology and related fields.  
 
@@ -22,7 +22,7 @@ The selected publications below reflect some of my computational work. I’m eag
 ---
 
 ### Tools & Skills
-`Python` `R` `BEAST` `IQ-TREE` `Nextclade` `HPC`  
+`Python` `R` `BEAST` `IQ-TREE` `Nextclade` `HPC` `numpy` `machine-learning` 
 `mdtraj` · `pandas` · `ggtree` · `geopandas`  
 
 ---
