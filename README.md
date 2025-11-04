@@ -22,7 +22,8 @@ The selected publications below reflect some of my computational work. I’m eag
 ---
 
 ### Tools & Skills
-`Python` `R` `BEAST` `IQ-TREE` `Nextclade` `HPC` `numpy` `machine-learning` 
+`Python` `R` `BEAST` `IQ-TREE` `Nextclade` `HPC` 
+`numpy` · `machine-learning` 
 `mdtraj` · `pandas` · `ggtree` · `geopandas`  
 
 ---
