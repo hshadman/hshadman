@@ -2,9 +2,9 @@
 
 I’m a computational researcher with experience working in interdisciplinary projects (computational biology, biophysics, machine learning).  
 
-Much of my past work has focused on the sequence–structure–function relationships of intrinsically disordered proteins (IDPs), though my interests also extend more broadly across computational biology and bioinformatics.
+Much of my past work focused on the sequence–structure–function relationships of intrinsically disordered proteins (IDPs), though my interests extend more broadly across computational biology and bioinformatics.
 
-The selected publications below reflect some of my computational work. I’m eager to continue exploring research questions in computational biology and related fields.  
+The selected publications below reflect some of my computational work. I’m eager to continue exploring research questions in these fields.  
 
 ---
 
