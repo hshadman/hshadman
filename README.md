@@ -1,6 +1,6 @@
 # Hello, I'm Hossain Shadman.
 
-I’m a computational researcher, with experience working in interdisciplinary projects (biochemistry, computational biology, bioinformatics, physics, machine learning).  
+I’m a computational researcher with experience working in interdisciplinary projects (computational biology, biophysics, machine learning).  
 
 Much of my past work has focused on the sequence–structure–function relationships of intrinsically disordered proteins (IDPs), though my interests also extend more broadly across computational biology and bioinformatics.
 
