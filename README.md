@@ -9,7 +9,7 @@ The selected publications below reflect some of my computational work. I’m eag
 ---
 
 ### Publications
--  [Resolving Local and Global Conformational Heterogeneity of the Human Intrinsically Disordered Proteome](https://doi.org/10.64898/2025.12.16.694679)
+-  [Resolving Local and Global Conformational Heterogeneity of the Human Intrinsically Disordered Proteome](https://doi.org/10.1021/acs.jctc.5c02154)
 -  [A Machine Learning-Based Investigation of Integrin Expression Patterns in Cancer and Metastasis](https://www.nature.com/articles/s41598-025-89497-w)
 -  [Map Conformational Landscapes of Intrinsically Disordered Proteins with Polymer Physics Quantities](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00272-8)
 -  [Exploring Structures and Dynamics of Protamine Molecules through Molecular Dynamics Simulations](https://pubs.acs.org/doi/10.1021/acsomega.2c04227)
